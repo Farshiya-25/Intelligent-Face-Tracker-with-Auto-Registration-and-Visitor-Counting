@@ -1,0 +1,80 @@
+2025-10-16 16:20:55 [INFO] Using device: cuda
+2025-10-16 16:20:59 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2025-10-16 16:20:59 [INFO] - gpu enabled: True
+2025-10-16 16:20:59 [INFO] - half precision: True
+2025-10-16 16:20:59 [INFO] - max batch size: 16
+2025-10-16 16:20:59 [INFO] - expects BGR: True
+2025-10-16 16:21:00 [INFO] DeepSort Tracker initialised
+2025-10-16 16:21:00 [INFO] - max age: 30
+2025-10-16 16:21:00 [INFO] - appearance threshold: 0.2
+2025-10-16 16:21:00 [INFO] - nms threshold: OFF
+2025-10-16 16:21:00 [INFO] - max num of appearance features: None
+2025-10-16 16:21:00 [INFO] - overriding track class : No
+2025-10-16 16:21:00 [INFO] - today given : No
+2025-10-16 16:21:00 [INFO] - in-build embedder : Yes
+2025-10-16 16:21:00 [INFO] - polygon detections : No
+2025-10-16 16:21:06 [INFO] visitor_1760611866782 | Event: entry | Image: logs\entrys\2025-10-16\entry_162106783047.jpg
+2025-10-16 16:21:07 [INFO] visitor_1760611867110 | Event: entry | Image: logs\entrys\2025-10-16\entry_162107111790.jpg
+2025-10-16 16:22:17 [INFO] Using device: cuda
+2025-10-16 16:22:20 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2025-10-16 16:22:20 [INFO] - gpu enabled: True
+2025-10-16 16:22:20 [INFO] - half precision: True
+2025-10-16 16:22:20 [INFO] - max batch size: 16
+2025-10-16 16:22:20 [INFO] - expects BGR: True
+2025-10-16 16:22:20 [INFO] DeepSort Tracker initialised
+2025-10-16 16:22:20 [INFO] - max age: 30
+2025-10-16 16:22:20 [INFO] - appearance threshold: 0.2
+2025-10-16 16:22:20 [INFO] - nms threshold: OFF
+2025-10-16 16:22:20 [INFO] - max num of appearance features: None
+2025-10-16 16:22:20 [INFO] - overriding track class : No
+2025-10-16 16:22:20 [INFO] - today given : No
+2025-10-16 16:22:20 [INFO] - in-build embedder : Yes
+2025-10-16 16:22:20 [INFO] - polygon detections : No
+2025-10-16 16:22:25 [INFO] visitor_1760611945032 | Event: entry | Image: logs\entrys\2025-10-16\entry_162225033103.jpg
+2025-10-16 16:22:25 [INFO] visitor_1760611945328 | Event: entry | Image: logs\entrys\2025-10-16\entry_162225330490.jpg
+2025-10-16 16:23:59 [INFO] visitor_1760611945328 | Event: exit_partial | Image: logs\exit_partials\2025-10-16\exit_partial_162359224236.jpg
+2025-10-16 16:24:07 [INFO] visitor_1760611945032 | Event: exit_partial | Image: logs\exit_partials\2025-10-16\exit_partial_162407425697.jpg
+2025-10-16 16:27:05 [INFO] Using device: cuda
+2025-10-16 16:27:09 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2025-10-16 16:27:09 [INFO] - gpu enabled: True
+2025-10-16 16:27:09 [INFO] - half precision: True
+2025-10-16 16:27:09 [INFO] - max batch size: 16
+2025-10-16 16:27:09 [INFO] - expects BGR: True
+2025-10-16 16:27:10 [INFO] DeepSort Tracker initialised
+2025-10-16 16:27:10 [INFO] - max age: 30
+2025-10-16 16:27:10 [INFO] - appearance threshold: 0.2
+2025-10-16 16:27:10 [INFO] - nms threshold: OFF
+2025-10-16 16:27:10 [INFO] - max num of appearance features: None
+2025-10-16 16:27:10 [INFO] - overriding track class : No
+2025-10-16 16:27:10 [INFO] - today given : No
+2025-10-16 16:27:10 [INFO] - in-build embedder : Yes
+2025-10-16 16:27:10 [INFO] - polygon detections : No
+2025-10-16 16:27:15 [INFO] visitor_1760612235798 | Event: entry | Image: logs\entrys\2025-10-16\entry_162715799572.jpg
+2025-10-16 16:27:16 [INFO] visitor_1760612236042 | Event: entry | Image: logs\entrys\2025-10-16\entry_162716043841.jpg
+2025-10-16 16:28:44 [INFO] visitor_1760612236042 | Event: exit_partial | Image: logs\exit_partials\2025-10-16\exit_partial_162844602900.jpg
+2025-10-16 16:28:52 [INFO] visitor_1760612235798 | Event: exit_partial | Image: logs\exit_partials\2025-10-16\exit_partial_162852808803.jpg
+2025-10-16 16:31:06 [INFO] Processing finished. Output: outputs/output_tracked_out.mp4
+2025-10-16 16:31:06 [INFO] Total unique entries logged: 2
+2025-10-16 16:31:06 [INFO] Total exits logged: 2
+2025-10-16 16:38:11 [INFO] Using device: cuda
+2025-10-16 16:38:13 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2025-10-16 16:38:13 [INFO] - gpu enabled: True
+2025-10-16 16:38:13 [INFO] - half precision: True
+2025-10-16 16:38:13 [INFO] - max batch size: 16
+2025-10-16 16:38:13 [INFO] - expects BGR: True
+2025-10-16 16:38:13 [INFO] DeepSort Tracker initialised
+2025-10-16 16:38:13 [INFO] - max age: 30
+2025-10-16 16:38:13 [INFO] - appearance threshold: 0.2
+2025-10-16 16:38:13 [INFO] - nms threshold: OFF
+2025-10-16 16:38:13 [INFO] - max num of appearance features: None
+2025-10-16 16:38:13 [INFO] - overriding track class : No
+2025-10-16 16:38:13 [INFO] - today given : No
+2025-10-16 16:38:13 [INFO] - in-build embedder : Yes
+2025-10-16 16:38:13 [INFO] - polygon detections : No
+2025-10-16 16:38:16 [INFO] visitor_1760612896726 | Event: entry | Image: logs\entrys\2025-10-16\entry_163816727938.jpg
+2025-10-16 16:38:16 [INFO] visitor_1760612896930 | Event: entry | Image: logs\entrys\2025-10-16\entry_163816930235.jpg
+2025-10-16 16:39:46 [INFO] visitor_1760612896930 | Event: exit_partial | Image: logs\exit_partials\2025-10-16\exit_partial_163946412092.jpg
+2025-10-16 16:39:57 [INFO] visitor_1760612896726 | Event: exit_partial | Image: logs\exit_partials\2025-10-16\exit_partial_163957000863.jpg
+2025-10-16 16:42:10 [INFO] Processing finished. Output: outputs/output_tracked_out.mp4
+2025-10-16 16:42:10 [INFO] Total unique entries logged: 2
+2025-10-16 16:42:10 [INFO] Total exits logged: 2

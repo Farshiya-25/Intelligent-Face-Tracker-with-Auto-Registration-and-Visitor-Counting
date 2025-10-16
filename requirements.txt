@@ -1,0 +1,19 @@
+# Core Python utilities
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Computer vision
+opencv-python>=4.9.0
+ultralytics>=8.2.0  # for YOLOv8 face detection
+
+# Deep learning (YOLO backend dependencies)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Face embeddings / similarity (optional, if used)
+deepface
+
+# Data storage and logging
+pymongo>=4.6.0   # if you log to MongoDB
+SQLAlchemy>=2.0.0  # optional, if using SQL DB
+pinecone

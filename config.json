@@ -1,0 +1,13 @@
+{
+    "model_path": "C:\\Users\\Abdul\\Downloads\\yolov8n-face.pt",
+    "confidence_threshold": 0.5,
+    "recognition_threshold": 0.9,
+    "deepsort_max_age":30,
+    "database_uri": "mongodb://localhost:27017/",
+    "database_name": "face_tracking",
+    "log_dir": "logs",
+    "input_video_path": "C:\\Users\\Abdul\\Downloads\\record_20250620_191129.mp4",
+    "output_video_path": "outputs/output_tracked_out.mp4",
+    "use_live_camera": false,
+    "camera_index": 0
+}
